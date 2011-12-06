@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="SMS"/>
+	<buildpathentry kind="src" path="system/core"/>
+	<buildpathentry kind="src" path="system/database"/>
+	<buildpathentry kind="src" path="system/helpers"/>
+	<buildpathentry kind="src" path="system/language/english"/>
+	<buildpathentry kind="src" path="system/libraries"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
